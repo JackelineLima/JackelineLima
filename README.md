@@ -1,12 +1,27 @@
 ### Hello guys, welcome to my github!
 
-<p align="left">
-  🦄 Linguagens: <strong>Swift</strong>
-</p>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-<p align="left">
-  💼 Ferramentas: <strong>Xcode</strong>
-</p>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando Analises e Desenvolvimento de Sistemas.
+- 💼 &nbsp; Trabalhando como Desenvolvedora Junior na Serasa.
+- 🌱 &nbsp; Aprendendo mais sobre Swift.
+
+
+**Utilidades**
+
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
 
 ![Jackeline Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JackelineLima&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineLima&layout=compact&theme=radical)
 
