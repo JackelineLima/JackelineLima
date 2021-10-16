@@ -14,9 +14,7 @@
 
 <p align="left">
   
-  <a href="linkedin.com/in/jackeline-pires-de-lima-276532193" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" />
-  </a>
+  <a href="https://www.linkedin.com/in/jackeline-pires-de-lima-276532193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </p>  
 
