@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Jackeline Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JackelineLima&show_icons=true&theme=radical)
+[![Jackeline Lima wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JackelineLima)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
