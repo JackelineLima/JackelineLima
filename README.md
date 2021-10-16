@@ -2,7 +2,7 @@
 
 ![Jackeline Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JackelineLima&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineLima&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackelineLima&layout=compact&theme=radical)
 
 
 
