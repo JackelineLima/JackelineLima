@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Analises e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como Desenvolvedora Junior na Serasa.
 - 🌱 &nbsp; Aprendendo mais sobre Swift.
 
