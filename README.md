@@ -1,4 +1,4 @@
-### Hello guys, welcome to my github!
+### Olá pessoal, bem-vindos ao meu github!
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
