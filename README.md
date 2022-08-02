@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como Desenvolvedora Junior na Will Bank.
-- 🌱 &nbsp; Aprendendo mais sobre Swift.
+- 🌱 &nbsp; Aprendendo mais sobre Swift
 
 
 **Utilidades**
