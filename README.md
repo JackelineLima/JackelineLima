@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Trabalhando como Desenvolvedora IOS.
+- 💼 &nbsp; Trabalhando como Desenvolvedora iOS.
 - 🌱 &nbsp; Aprendendo mais sobre Swift.
 
 <br/>
