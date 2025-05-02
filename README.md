@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Formada em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como Desenvolvedora iOS.
 - 🌱 &nbsp; Aprendendo mais sobre Swift.
 
